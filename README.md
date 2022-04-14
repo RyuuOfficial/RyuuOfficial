@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @RyuuOfficial
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-RyuuOfficial/RyuuOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Ryuu
+15 Years Old<p>
+I'm From Indonesian ~ Sulawesi.<p>
+I'm Not Programming, I'm Just Students!,<p>
+Please Click https://youtube.com/chanel/RyuuOfficial
